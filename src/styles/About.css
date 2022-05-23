@@ -1,0 +1,17 @@
+
+
+
+.card {
+    width: 27rem;
+    margin-top: 3rem;
+}
+
+
+
+.card-title {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-size: xx-large;
+    font-weight: bolder;
+}

@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&family=Poppins:wght@300&display=swap');
+
+.header {
+    font-family: 'Patrick Hand', cursive;
+    font-size: large;
+}
+.header img {
+    margin-right: 5px;
+}
+.vr {
+    width: 6px;
+}
+.icons {
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    display: inline-flex;
+    margin-right: 20em;
+    font-weight: bolder;
+}
